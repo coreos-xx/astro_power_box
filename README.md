@@ -1,4 +1,4 @@
-# Astro Power Box (PBV1)
+# Astro Power Box 
 
 ## Overview
 
