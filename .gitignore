@@ -1,0 +1,30 @@
+# Ignore all .zip files (backups, releases, production files)
+*.zip
+
+# Ignore KiCad backup and temporary files
+pcb/powerBoxV1/powerBoxV1-backups/
+pcb/powerBoxV1/production/backups/
+
+# Ignore KiCad cache/configuration files (not needed for design)
+pcb/powerBoxV1/fabrication-toolkit-options.json
+pcb/powerBoxV1/fp-info-cache
+pcb/powerBoxV1/fp-lib-table
+pcb/powerBoxV1/sym-lib-table
+pcb/powerBoxV1/powerBoxV1.kicad_prl
+pcb/powerBoxV1/powerBoxV1.kicad_pro
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled firmware files
+*.bin
+*.hex
+*.elf
+
+# Ignore temporary and swap files
+*.bak
+*.swp
+*.log
+*.tmp
+
