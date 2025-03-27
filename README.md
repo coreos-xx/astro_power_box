@@ -1,5 +1,6 @@
 # Astro Power Box 
-![Astro Power Box](./pcb/powerBoxV1/powerBoxV1.jpg =250x "Astro Power Box" )
+
+[<img src="./pcb/powerBoxV1/powerBoxV1.jpg" width="250"/>](./pcb/powerBoxV1/powerBoxV1.jpg)
 ## Overview
 
 PBV1 Power Distribution Box is designed for **astrophotography setups**, allowing users to efficiently power and control their astronomical equipment. It provides multiple **USB and 12V outputs**, making it an essential component for **observatory automation** and **field setups**.
